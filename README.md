@@ -17,7 +17,7 @@ The engagement centers on **Daikibo Industrials**, a multinational manufacturing
 ---
 
 ## 🛠️ Tech Stack & Analytical Methods
-- **Business Intelligence & Dashboarding:** Tableau Desktop / Tableau Public
+- **Business Intelligence & Dashboarding:** Tableau Public
 - **Spreadsheet Modeling:** Microsoft Excel (Nested Logical Formulas, Dynamic Aggregations, Conditional Formatting)
 - **Analytical Frameworks:** Telemetry Root-Cause Analysis, Forensic Pay Equity Auditing, Variance Analysis
 
